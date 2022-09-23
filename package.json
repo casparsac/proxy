@@ -1,0 +1,10 @@
+{
+  "name": "iphone4hk",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Caspar <casparsac@gmail.com>",
+  "scripts": {
+    "start": "node proxy.js",
+  },
+  "license": "MIT"
+}
